@@ -1,6 +1,5 @@
-
-import sys
-import sqlite3
+import sys 
+import sqlite3 #Prueba 2025-05-21
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QLabel, QLineEdit, QPushButton, QTextEdit, QMessageBox
